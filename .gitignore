@@ -128,3 +128,18 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# IDE files
+.idea/
+
+# Node.js dependencies (if you are working with Node.js)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# npm debugging logs
+npm-debug.log
+
+# TypeScript build output (if you are working with TypeScript)
+dist/
